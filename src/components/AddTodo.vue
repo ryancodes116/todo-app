@@ -25,6 +25,7 @@ export default {
       };
       // Send to parent
       this.$emit("add-todo", newTodo);
+      // Clear input after submit
       this.title = "";
     }
   }

@@ -1,24 +1,9 @@
-# todolist-clone
+# Todo App
 
-## Project setup
-```
-npm install
-```
+A simple and easy to use UI to add, delete, and complete tasks.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Initial tasks are retrieved from JSONPlaceholder and any tasks that are deleted are also mock deleted on their server.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Built using Vue.js
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](src/assets/app-preview.png)
